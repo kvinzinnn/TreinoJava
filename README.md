@@ -10,4 +10,5 @@ Projeto desenvolvido para aprimorar habilidades em lógica de programação util
 ## 🛠️ Tecnologias Utilizadas
 
 - JavaScript
+- Python
 - Git e GitHub
