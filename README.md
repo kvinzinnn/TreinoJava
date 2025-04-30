@@ -1,4 +1,4 @@
-# Treino JavaScript
+# Treino de Programação
 
 Projeto desenvolvido para aprimorar habilidades em lógica de programação utilizando JavaScript.
 
